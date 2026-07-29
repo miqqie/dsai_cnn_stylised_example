@@ -4,7 +4,7 @@ This guide walks through the complete lifecycle of a CNN's training process usin
 
 The core takeaway: CNNs are not magic. They are a sequence of arithmetic operations — multiply, add, compare to zero — repeated across many small windows and many layers. Every number the model produces, from the first feature map to the final weight update, can be traced back to a human choice (kernel size, stride, padding, learning rate) or a straightforward calculation. The guide also bridges the walkthrough to real-world practice with diagnostics, hyperparameter tuning heuristics, and a ready-to-use PyTorch template.
 
-**🔗 [Try the interactive HTML demo](link-to-hosted-html)**
+**🔗 [Try the interactive HTML demo](https://huggingface.co/spaces/Miqqie/Convolutional_Neural_Networks)**
 
 ---
 
