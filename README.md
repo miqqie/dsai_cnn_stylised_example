@@ -6,6 +6,8 @@ The core takeaway: CNNs are not magic. They are a sequence of arithmetic operati
 
 **🔗 [Try the interactive HTML demo](https://huggingface.co/spaces/Miqqie/Convolutional_Neural_Networks)**
 
+![cnn](Inside_a_Neural_Network.png)
+
 ---
 
 ## Table of Contents
